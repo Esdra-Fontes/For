@@ -8,7 +8,7 @@ JavaScript – Interatividade e comportamento dinâmico
 📁 Estrutura do Projeto: For/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
-Clone este repositório: git clone https://github.com/Esdra-Fontes/Desenvolvimento-Web.git
+Clone este repositório: git clone https://github.com/Esdra-Fontes/For.git
 Acesse a pasta do projeto
 Abra o arquivo index.html em qualquer navegador web
 
