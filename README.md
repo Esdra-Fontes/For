@@ -11,7 +11,9 @@ O objetivo deste projeto é demonstrar a estrutura básica de um site e a organi
 HTML5 – Estrutura das páginas
 JavaScript – Interatividade e comportamento dinâmico
 
-📁 Estrutura do Projeto: For/ │ ├── index.html
+📁 Estrutura do Projeto:
+---
+For/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
 ---
