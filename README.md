@@ -1,4 +1,4 @@
-🌐 For:
+🧮 For:
 ---
 O **For** é uma estrutura de repetição utilizada quando se sabe antecipadamente o número exato de repetições (iterações). É ideal para percorrer listas, arrays ou coleções de dados, sendo muito comum em algoritmos e aplicações web.
 
