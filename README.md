@@ -8,8 +8,8 @@ O objetivo deste projeto é demonstrar a estrutura básica de um site e a organi
 
 🛠️ Tecnologias Utilizadas:
 ---
-HTML5 – Estrutura das páginas
-JavaScript – Interatividade e comportamento dinâmico
+- HTML5 – Estrutura das páginas
+- JavaScript – Interatividade e comportamento dinâmico
 
 📁 Estrutura do Projeto:
 ---
@@ -17,14 +17,14 @@ For/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
 ---
-Clone este repositório: git clone https://github.com/Esdra-Fontes/For.git
-Acesse a pasta do projeto
-Abra o arquivo index.html em qualquer navegador web
+- Clone este repositório: git clone https://github.com/Esdra-Fontes/For.git
+- Acesse a pasta do projeto
+- Abra o arquivo index.html em qualquer navegador web
 
 📚 Aprendizados:
 ---
-Estruturação semântica com HTML
-Manipulação básica do DOM com JavaScript
-Boas práticas na organização de projetos web
+- Estruturação semântica com HTML
+- Manipulação básica do DOM com JavaScript
+- Boas práticas na organização de projetos web
 
 👤 Autor: Esdra Fontes
