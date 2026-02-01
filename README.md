@@ -10,6 +10,7 @@ O objetivo deste projeto é demonstrar a estrutura básica de um site e a organi
 ---
 - HTML5 – Estrutura das páginas
 - JavaScript – Interatividade e comportamento dinâmico
+- *(O projeto não utiliza CSS externo além do básico, focando na lógica principal.)*
 
 📁 Estrutura do Projeto:
 ---
